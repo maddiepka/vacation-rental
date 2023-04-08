@@ -11,8 +11,8 @@ Następnie przeszukuje bazę AirBnB i po uzyskaniu rekordów uzupełnia nimi for
 W odpowiedzi przesyła użytkownikowi link do tabeli w AirTable z uzyskanymi noclegami. 
 
 **Technologie:**
-Python
-BeautifulSoap
+Python,
+BeautifulSoap,
 Selenium
 
 
@@ -41,7 +41,7 @@ Selenium
 
 
 **Instalacja:**
-Zgodnie z requirements.txt
+Zgodnie z requirements.txt,
 Uzupełnienie .env do swojej ścieżki chromedriver.exe
 
 
