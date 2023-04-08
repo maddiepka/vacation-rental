@@ -20,7 +20,7 @@ Selenium
 - zadanie użytkownikowi pytań w celu uzyskania danych wejściowych, po wprowadzeniu odpowiedzi jej walidacja
 - uzyskanie adresu URL wyszukiwania na AirBnB i za pomocą BeautifulSoap pobranie informacji dt. noclegu
 - wpisanie uzyskanych rekordów do wcześniej przygotowanego formularza za pomocą Selenium
-- wyświetlenie użytkownikowi linka z tabelą z wynikami jego wyszukiwania
+- wyświetlenie użytkownikowi odnośnika do tabeli z wynikami jego wyszukiwania
 
 **Screeny:**
 
